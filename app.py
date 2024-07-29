@@ -49,5 +49,5 @@ def main():
         print("Opción no válida.")
 
 if __name__ == "__main__":
-    print("Bienvenido !!")
+    print("Bienvenido !! \n")
     main()
