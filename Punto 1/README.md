@@ -1,5 +1,6 @@
 
 ###1. ¿Qué es Git? ###
+
 Git es un sistema de control de versiones distribuido que permite a los desarrolladores ver cómo cambia el código fuente de un proyecto de software con el tiempo. Permite a los equipos de desarrollo trabajar juntos en proyectos de software, manteniendo un registro completo de todas las modificaciones realizadas en el código.
 
 2. ¿Cuál es el propósito del comando git init en Git? 
